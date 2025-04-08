@@ -1,6 +1,5 @@
-baseURL = 'https://namablogkamu.netlify.app/'
-languageCode = 'en-us'
-title = 'My Blog'
+baseURL = https://ikchsan-blog.netlify.app/
+title = 'Blog Miksan'
 theme = 'PaperMod'
 
 [params]
