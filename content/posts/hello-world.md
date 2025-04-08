@@ -4,4 +4,4 @@ date: 2025-04-08T15:00:00+07:00
 draft: false
 ---
 
-Welcome to my first Hugo blog post!
+This is my first post using Hugo on Netlify!

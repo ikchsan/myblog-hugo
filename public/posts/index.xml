@@ -13,7 +13,7 @@
       <link>https://example.org/posts/hello-world/</link>
       <pubDate>Tue, 08 Apr 2025 15:00:00 +0700</pubDate>
       <guid>https://example.org/posts/hello-world/</guid>
-      <description>Welcome to my first Hugo blog post!</description>
+      <description>This is my first post using Hugo on Netlify!</description>
     </item>
   </channel>
 </rss>
