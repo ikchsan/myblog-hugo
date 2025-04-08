@@ -1,0 +1,8 @@
+baseURL = 'https://namablogkamu.netlify.app/'
+languageCode = 'en-us'
+title = 'My Blog'
+theme = 'PaperMod'
+
+[params]
+  showReadingTime = true
+  defaultTheme = 'auto'
